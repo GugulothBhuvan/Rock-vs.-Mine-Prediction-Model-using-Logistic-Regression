@@ -61,5 +61,3 @@ This project is licensed under the [MIT License](LICENSE). You're free to use, m
 
 For questions or feedback regarding the project, feel free to contact Bhuvan Raj Guguloth via email: Bhuvanrajnaik@gmail.com.
 ```
-
-You can customize this template by replacing placeholders like `[Your Name]` and `[your.email@example.com]` with your actual information.
